@@ -4,6 +4,7 @@ This is a Pytorch implementation of the paper 【Learning to Localize Sound Sour
 	1. download the model
 sound8.pth:
 https://drive.google.com/file/d/1-PhHutIYV9Oi2DhDZL2h1Myu84oGLI81/view
+
 sound_localization_latest.pth:
 https://drive.google.com/file/d/1JMD-LjHbfZ_yUy-l6tjbI46yYQfH8oS4/view
 
