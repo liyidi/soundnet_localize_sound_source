@@ -1,5 +1,5 @@
 # soundnet_localize_sound_source
-This is a Pytorch implementation of the paper 【Learning to Localize Sound Source in Visual Scenes】 and soundnet, which only includes the verification part and does not include the training process.
+This is a Pytorch implementation of the paper *Learning to Localize Sound Source in Visual Scenes* and soundnet, which only includes the verification part and does not include the training process.
 
 ## 1. download the model
 Click [here](https://drive.google.com/file/d/1-PhHutIYV9Oi2DhDZL2h1Myu84oGLI81/view) to download sound8.pth.
@@ -23,6 +23,6 @@ Load the pretrained model from "sound_localization_latest.pth", and edit the dat
 Result shows the attention map.
 
 ## 4.refrence: 
-\[1\] Senocak A, Oh T H, Kim J, et al. Learning to localize sound source in visual scenes[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 4358-4366.
+*\[1\] Senocak A, Oh T H, Kim J, et al. Learning to localize sound source in visual scenes[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 4358-4366.*
 
-\[2\] Yusuf Aytar, Carl Vondrick, and Antonio Torralba. "Soundnet: Learning sound representations from unlabeled video." Advances in Neural Information Processing Systems. 2016.
+*\[2\] Yusuf Aytar, Carl Vondrick, and Antonio Torralba. "Soundnet: Learning sound representations from unlabeled video." Advances in Neural Information Processing Systems. 2016.*
