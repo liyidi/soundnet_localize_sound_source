@@ -1,0 +1,2 @@
+/home/yidi/myprojects/soundnet_localize_sound_source/mydata/10602295346.wav
+/home/yidi/myprojects/soundnet_localize_sound_source/mydata/10006434483.wav
