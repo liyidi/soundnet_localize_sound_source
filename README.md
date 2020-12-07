@@ -22,7 +22,7 @@ Load the pretrained model from "sound_localization_latest.pth", and edit the dat
 
 Result shows the attention map.
 
-## 4.refrence: 
+## 4.reference: 
 *\[1\] Senocak A, Oh T H, Kim J, et al. Learning to localize sound source in visual scenes[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 4358-4366.*
 
 *\[2\] Yusuf Aytar, Carl Vondrick, and Antonio Torralba. "Soundnet: Learning sound representations from unlabeled video." Advances in Neural Information Processing Systems. 2016.*
